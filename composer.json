@@ -1,0 +1,11 @@
+{
+    "name": "iqbal/sqllite-cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IQBAL HASAN",
+            "email": "iqbalhasan.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
